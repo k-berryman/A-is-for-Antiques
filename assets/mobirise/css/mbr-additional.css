@@ -86,7 +86,7 @@ body {
   background-color: #2e1000 !important;
 }
 .bg-success {
-  background-color: #e4bf9d !important;
+  background-color: #a77a50 !important;
 }
 .bg-info {
   background-color: #48d678 !important;
@@ -160,22 +160,22 @@ body {
 .btn-success,
 .btn-success:active,
 .btn-success.active {
-  background-color: #e4bf9d !important;
-  border-color: #e4bf9d !important;
+  background-color: #a77a50 !important;
+  border-color: #a77a50 !important;
   color: #ffffff !important;
 }
 .btn-success:hover,
 .btn-success:focus,
 .btn-success.focus {
   color: #ffffff !important;
-  background-color: #d39861 !important;
-  border-color: #d39861 !important;
+  background-color: #735437 !important;
+  border-color: #735437 !important;
 }
 .btn-success.disabled,
 .btn-success:disabled {
   color: #ffffff !important;
-  background-color: #d39861 !important;
-  border-color: #d39861 !important;
+  background-color: #735437 !important;
+  border-color: #735437 !important;
 }
 .btn-warning,
 .btn-warning:active,
@@ -335,21 +335,21 @@ body {
 .btn-success-outline:active,
 .btn-success-outline.active {
   background: none;
-  border-color: #ce8b4d;
-  color: #ce8b4d !important;
+  border-color: #62482f;
+  color: #62482f !important;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
 .btn-success-outline.focus {
   color: #ffffff !important;
-  background-color: #e4bf9d;
-  border-color: #e4bf9d;
+  background-color: #a77a50;
+  border-color: #a77a50;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
   color: #ffffff !important;
-  background-color: #e4bf9d !important;
-  border-color: #e4bf9d !important;
+  background-color: #a77a50 !important;
+  border-color: #a77a50 !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active,
@@ -432,7 +432,7 @@ body {
   color: #232323 !important;
 }
 .text-success {
-  color: #e4bf9d !important;
+  color: #a77a50 !important;
 }
 .text-info {
   color: #48d678 !important;
@@ -459,7 +459,7 @@ a.text-secondary:focus {
 }
 a.text-success:hover,
 a.text-success:focus {
-  color: #ce8b4d !important;
+  color: #62482f !important;
 }
 a.text-info:hover,
 a.text-info:focus {
@@ -482,7 +482,7 @@ a.text-black:focus {
   color: #4d4d4d !important;
 }
 .alert-success {
-  background-color: #e4bf9d;
+  background-color: #a77a50;
 }
 .alert-info {
   background-color: #48d678;
@@ -511,7 +511,7 @@ a:hover {
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #d3baa3;
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
@@ -1358,55 +1358,34 @@ section.lazy-placeholder:after {
 .cid-rzMUvKybQX .mbr-section-btn {
   text-align: center;
 }
-.cid-vfbu94Wz13 {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #482a0f;
+.cid-vfbpkzS9IK {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/screenshot-2026-03-28-at-1.12.02pm-1622x1050.png");
 }
-@media (min-width: 991px) {
-  .cid-vfbu94Wz13 .container-fluid {
-    padding-left: 0;
+.cid-vfbpkzS9IK .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-vfbpkzS9IK form.mbr-form {
+  border-radius: 10px;
+  background-color: #fafafa;
+}
+@media (min-width: 992px) {
+  .cid-vfbpkzS9IK form.mbr-form {
+    padding: 3rem 2rem;
+    width: 70%;
   }
-}
-.cid-vfbu94Wz13 .mbr-text,
-.cid-vfbu94Wz13 .mbr-section-btn {
-  color: #232323;
 }
 @media (max-width: 991px) {
-  .cid-vfbu94Wz13 .mbr-text,
-  .cid-vfbu94Wz13 .mbr-section-btn {
-    text-align: center;
+  .cid-vfbpkzS9IK form.mbr-form {
+    padding: 1rem;
   }
 }
-@media (max-width: 991px) {
-  .cid-vfbu94Wz13 .mbr-text,
-  .cid-vfbu94Wz13 .mbr-section-title {
-    text-align: center;
-  }
-}
-.cid-vfbu94Wz13 a.btn {
-  height: 100%;
-  margin: 0;
-}
-.cid-vfbu94Wz13 .mbr-section-btn {
-  display: flex;
-  margin-bottom: 1rem;
+.cid-vfbpkzS9IK form.mbr-form .mbr-section-btn {
+  text-align: center;
   width: 100%;
 }
-.cid-vfbu94Wz13 .mbr-section-btn .btn {
+.cid-vfbpkzS9IK form.mbr-form .mbr-section-btn .btn {
   width: 100%;
-}
-@media (max-width: 991px) {
-  .cid-vfbu94Wz13 .image-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-.cid-vfbu94Wz13 .justify-content-center {
-  align-items: center;
-}
-.cid-vfbu94Wz13 .mbr-section-title {
-  color: #ffffff;
-}
-.cid-vfbu94Wz13 .mbr-text {
-  color: #efefef;
 }
