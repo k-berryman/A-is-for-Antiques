@@ -977,32 +977,8 @@ section.lazy-placeholder:after {
     left: -1rem;
   }
 }
-.cid-vfMgEOSNNC {
-  background-image: url("../../../assets/images/screenshot-2026-04-03-at-9.01.28pm-1692x1208.png");
-}
-.cid-vfMgEOSNNC .mbr-section-title {
-  text-align: center;
-}
-.cid-vfMgEOSNNC .mbr-text,
-.cid-vfMgEOSNNC .mbr-section-btn {
-  text-align: center;
-}
-.cid-vfMgEOSNNC .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-vfMgEOSNNC .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
 .cid-rzMUvKybQX {
-  padding-top: 90px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
+  background-image: url("../../../assets/images/screenshot-2026-04-03-at-9.01.28pm-1692x1208.png");
 }
 .cid-rzMUvKybQX .mbr-section-title {
   text-align: center;
